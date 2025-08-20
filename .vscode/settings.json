@@ -1,0 +1,16 @@
+{
+    "github.copilot.advanced": {
+        "authPermissions": "default",
+        "debug.overrideEngine": ""
+    },
+    "githubPullRequests.codingAgent.uiIntegration": true,
+    "telemetry.feedback.enabled": true,
+    "workbench.editor.closeEmptyGroups": true,
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/Thumbs.db": false
+    }
+}

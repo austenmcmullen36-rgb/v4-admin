@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode.remote-explorer",
+        "github.codespaces",
+        "github.copilot",
+        "github.copilot-chat"
+    ]
+}
